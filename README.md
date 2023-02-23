@@ -32,5 +32,6 @@ simple fighting game
 - https://www.khronos.org/opengl/wiki/
 - https://www.youtube.com/watch?v=s5bd9KMSSW4
 - https://en.wikipedia.org/wiki/Fighting_game
+- https://www.youtube.com/watch?v=Tz0dq2krCW8&list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8
 
 
